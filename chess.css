@@ -1,0 +1,18 @@
+body{
+    size: 1000px;
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    height: 30px;
+    width: 30px;
+    background-color:yellow;
+}
+td{
+    height: 60px;
+    width: 60px;
+border:1px solid black ;
+
+}
