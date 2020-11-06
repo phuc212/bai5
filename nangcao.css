@@ -1,0 +1,20 @@
+body{padding: 50px}
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+caption {
+    color: blue;
+    text-align: center;
+    font-size: 20;
+}
+th{
+    color: blue;
+    font-size: 10;
+  
+}
+td{
+   font-size: 15;
+   border:1px solid black;
+}
